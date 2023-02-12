@@ -19,13 +19,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<br />
-<div align="center">
-  <a href="https://medium.com/@NoufJoh/data-science-capstone-project-saudi-stock-exchange-market-tadawul-36ddbc95ef5e" >
-    <img src="Images/markets-stocks-buy-sell-trading-shares-stock-market-1621493543-09722620.jpeg" alt="Logo" width="620" height="220">
-  </a>
-</div>
-<br />
+
 In this project, a recurrent neural network was built to predict the sentiment of a movie review using the IMDB data set. This model was made with Amazon's SageMaker service. Also, the model was deployed, and a simple web app interacting with the deployed model was built.
 
 <br/>
@@ -45,6 +39,11 @@ In this project, a recurrent neural network was built to predict the sentiment o
 * SageMaker
 * PyTorch
 
+## The Model Includes the following files: 
+* The SageMaker Project.ipynb file with fully functional code, all code cells executed and displaying output, and all questions answered.
+* An HTML or PDF export of the project notebook with the name report.html or report.pdf.
+* The completed train/train.py and serve/predict.py python files.
+* The edited website/index.html file.
 
 
 
